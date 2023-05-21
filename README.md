@@ -2,7 +2,9 @@
 
 ### Front-end - Developer
 
-![kermittyping](https://github.com/robonexx/robonexx/blob/master/kermit-typing.gif)
+<p align="center">
+<img src="kermit.gif"  alt="Project image" width="480" height="320" >
+</p>
 
 ### I Love to be creative in everything I do...
  ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
@@ -16,10 +18,10 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 ### You can find me at:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/LinkedIN.png" alt="" height="30" /></a>
-<a href="https://github.com/robonexx" target="blank"><img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/Github.png" alt="" height="30" /></a>
-<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/Codeopen.png" alt="" height="30" /></a>
-<img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/Discord.png" alt="" height="30" />
+<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="socials/LinkedIN.png" alt="" height="30" /></a>
+<a href="https://github.com/robonexx" target="blank"><img align="center" src="socials/Github.png" alt="" height="30" /></a>
+<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
+<img align="center" src="socials/Discord.png" alt="" height="30" />
 </p>
 
 ## Tech I work with
@@ -56,9 +58,7 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 
  ---
 
-<img align="center" alt="Visual Studio Code" width="300px" src="https://github.com/robonexx/robonexx/blob/master/robIcon.png" />
-
-🚀 I spent my fair time on HTML, CSS and it's frameworks and ofcourse JavaScript both vanilla and frameworks such as React and Next, I also constantly explore new technologies to expand my skills . 
+🚀 I also got LinkedIn Skill Assessments in HTML, CSS, JAVASCRIPT, REACT & FRONTEND-DEVELOPMENT - 🤓
 
 💻 I have a degree from KYH - Frontend education, and I'm currently studying at CME to learn more, at the moment I'm deepdiving in to NEXT and NODE. I've also work with freelancing while studying.
 
@@ -75,14 +75,24 @@ As a developer I'm focused on finding the best solutions for your needs by devel
  - Dance / Locking / Hip-Hop 🕺
  - Game (When something awesome is dropping) 🎮
 
+ ### Currently working on
+ - Working on 2 freelance projects for clients
+ - Studying Backend and webservers using NODE, Express, NEXTjs and Supabase
+ - Sitting on codewars, practice my skills in coding 🚀
+ - Looking for a full time job in coding
+
 ### Have and Idea you want to bring to life?
 - 💬 Reach out and lets have a chat?
 
 #### You can reach me at:
 
-✉️ robertwagar0@gmail.com
+✉️ robertwagar@gmail.com
 
 ---
+
+<img align="center" alt="Visual Studio Code" width="300px" src="robIcon.png" />
+
 ## Robert Wägar
+
 - yup that's me, and I'm Locking
 
